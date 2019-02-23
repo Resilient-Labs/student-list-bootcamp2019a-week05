@@ -1,0 +1,40 @@
+body {
+  background-image: url(../image/classroom.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+section {
+  background-color: #587;
+  width: 50%;
+  margin-left: 25%;
+}
+
+h1 {
+  color: white;
+  font-family: eraser;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+button {
+  height: 40px;
+  width: 20%;
+  border-radius: 40px;
+  margin-left: 20%;
+  margin-top: 10px;
+}
+
+input {
+  height: 45px;
+  width: 99%;
+  font-size: 20px;
+}
+
+li {
+  list-style: none;
+  font-family: eraser;
+  font-size: 20px;
+  color: white;
+}
