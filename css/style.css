@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  font-size: 35px;
+  list-style: none;
+}
+body{
+ background-image: url(https://i.pinimg.com/originals/c2/7e/4d/c27e4da73e6f4782968c317f797878b7.jpg);
+ background-size: cover;
+}
+section{
+  margin-top: 80px;
+  text-align: center;
+}
+h1{
+  font-weight: bolder;
+  color: red;
+}
+button{
+  font-weight: bold;
+  color: red;
+  background-color: yellow;
+}
