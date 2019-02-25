@@ -1,0 +1,23 @@
+h1{
+  font-size: 2rem;
+  text-align: center;
+}
+body{
+  background-color: lightblue;
+
+}
+section{
+  display: block;
+  text-align: center;
+}
+#display{
+  width: 20%;
+}
+
+ul{
+  background-color: pink;
+  text-decoration: none;
+  list-style: none;
+  width:20%
+  
+}
