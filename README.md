@@ -1,24 +1,14 @@
-# 👩🏾‍🎓 Week05 Bootcamp2019a Project: Student List
+My Student List
+This site allows Teachers take attendance and read the attendance when needed.
 
-### Goal: Build a Simple Student List App For A Teacher
+Link to project: coming soon
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+![alt tag](media/attendance.jpg)
 
-### How to submit your code for review:
+How It's Made:
+Tech used: HTML, CSS, JavaScript,
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Lessons Learned:
+I've learned  that simplicity is important in creating well functioning sites.
