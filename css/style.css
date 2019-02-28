@@ -1,0 +1,80 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Noticia Text', serif;
+    background:white;
+
+}
+
+
+.Wrapper{
+
+    height: 600px;
+    width: 50%;
+    background:white;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    box-shadow: 0 0 10px black;
+    overflow: hidden;
+     
+}
+
+
+
+.attendence{
+    height: 400px; 
+    margin-bottom: 40px;
+    margin: auto;
+    width: 50%;
+
+}
+
+.attendence .title{
+    
+}
+
+
+
+.attendence h1{
+    font-size: 50px;
+}
+
+.attendence form{
+    margin-top: 100px;
+}
+
+
+
+
+.Classroom{
+
+}
+
+
+
+
+
+.footer{
+
+    height: 50px;
+    width: 100%;
+}
+
+
+
+.companyLogo{
+    height:00px;
+    width:48%;
+}
+
+
+
+
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+
