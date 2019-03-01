@@ -18,14 +18,17 @@ $(document).ready(function(){
 
 		let list = $("input").val()
 		classRoom.push(list);
+		$("input").val("");
 		console.log(classRoom);
 
 	});
 
 	$("#display").on("click", function(elt){
+		$("#names").children().remove();
 		classRoom.forEach(function(element){
 				//Append list items grab value from input
 			$("ul").append("<li>"+element+"</li>")
+
 		});
 	});
 
