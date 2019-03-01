@@ -1,7 +1,7 @@
 
 # Attendance List
 An application where the user can enter names in an input and the application has a button to display the list.
-
+![alt tag](Attendancelist-screenshot.png)
 ## How It's Made:
 
 **Tech used:** HTML, JavaScript, Jquery
