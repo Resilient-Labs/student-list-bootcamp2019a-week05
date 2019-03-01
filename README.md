@@ -5,10 +5,11 @@ This application allows teachers to take attendance as students walk into the cl
 
 ## How It's Made:
 
+
 **Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
-I would add a feature to display student's arrival time. 
+I would add a feature to display student's arrival time.
 
 ## Lessons Learned:
 
