@@ -1,24 +1,14 @@
-# 👩🏾‍🎓 Week05 Bootcamp2019a Project: Student List
+# Student List Project
 
-### Goal: Build a Simple Student List App For A Teacher
+This web application allows the user to create a list that appears after each list item is submitted into the form by saving the list items. In this case, the form is keeping track of attendance and is used to print the names of those who are present at the end of attendance-tracking.
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+## How It's Made
 
-### How to submit your code for review:
+Tech used: HTML, CSS, & JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Optimizations
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I would add a feature that would allow the user to see which names have been submitted as they go along to avoid potentially marking a classmate present twice for instance.
+
+## Lessons Learned
+Through this project, I learned how to push functions as well as gained more familiarity with appending lists.
