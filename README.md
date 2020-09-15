@@ -1,24 +1,17 @@
-# 👩🏾‍🎓 Week05 Bootcamp2019a Project: Student List
+# 👩🏾‍🎓 Student List
 
-### Goal: Build a Simple Student List App For A Teacher
+This project was created for a teacher who would like to input each student who comes into class. When everyone is present, with a click of a button he or she will be able to pull up the names of the students.
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+**Link to project:**
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![alt tag](student.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML, CSS and JQuery
+
+I built this project by first creating an HTML document in order to create the header, input form and the button elements. Then I created the JavaScript file that will target the elements in my HTML file and give them functions. After I completed both the HTML and JQuery I created a CSS file in order to style my site background image, font styles etc.
+
+## Lessons Learned:
+I learned how to use JQuery
